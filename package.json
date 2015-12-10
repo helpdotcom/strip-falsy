@@ -1,0 +1,25 @@
+{
+  "name": "strip-falsy",
+  "version": "1.0.0",
+  "description": "Strip falsy properties from an object",
+  "main": "index.js",
+  "scripts": {
+    "bench": "node bench.js",
+    "test": "tap test.js --cov"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "phr": "~1.0.1",
+    "tap": "~2.3.1"
+  },
+  "license": "MIT",
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/helpdotcom/strip-falsy"
+  },
+  "homepage": "https://github.com/helpdotcom/strip-falsy",
+  "bugs": {
+    "url": "https://github.com/helpdotcom/strip-falsy/issues"
+  }
+}
